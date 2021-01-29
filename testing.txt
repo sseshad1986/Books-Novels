@@ -1,0 +1,96 @@
+
+What is traceability matrix?
+
+The relationship between test cases and requirements is shown with the help of a document. This document is known as a traceability matrix.
+
+
+What Test Plans consists of?
+
+Test design, scope, test strategies, approach are various details that Test plan document consists of.
+
+Test case identifier
+Scope
+Features to be tested
+Features not to be tested
+Test strategy & Test approach
+Test deliverables
+Responsibilities
+Staffing and training
+Risk and Contingencies
+
+What is the difference between UAT (User Acceptance Testing) and System testing?
+
+System Testing: System testing is finding defects when the system undergoes testing as a whole; it is also known as end-to-end testing. In such type of testing, the application suffers from beginning till the end.
+
+UAT: User Acceptance Testing (UAT) involves running a product through a series of specific tests which determines whether the product will meet the needs of its users.
+
+
+
+What is the difference between test scenarios, test cases?
+
+Difference between test scenarios and test cases is that
+
+Test Scenarios: A Test Scenario is any functionality that can be tested. It is also called Test Condition or Test Possibility.
+
+Test Cases: It is a document that contains the steps that have to be executed; it has been planned earlier.
+
+
+Explain what Test Plan is? What is the information that should be covered in Test Plan?
+
+A test plan can be defined as a document describing the scope, approach, resources, and schedule of testing activities and a test plan should cover the following details.
+
+Test Strategy
+Test Objective
+Exit/Suspension Criteria
+Resource Planning
+Test Deliverables
+
+
+When is RTM (Requirement Traceability Matrix) prepared?
+
+RTM is prepared before test case designing. Requirements should be traceable from review activities.
+
+
+What is the difference between Test matrix and Traceability matrix?
+
+Test Matrix: Test matrix is used to capture actual quality, effort, the plan, resources and time required to capture all phases of software testing
+
+Traceability Matrix: Mapping between test cases and customer requirements is known as Traceability Matrix
+
+
+When should "Regression Testing" be performed?
+
+After the software has changed or when the environment has changed Regression testing should be performed.
+
+
+What is test coverage?
+
+Test coverage measures in some specific way the amount of testing performed by a set of tests (derived in some other way, e.g., using specification-based techniques). Wherever we can count things and can tell whether or not each of those things has been tested by some test, then we can measure coverage.
+
+
+What is End-To-End Testing?
+
+Testing the fully integrated application to evaluate the system’s compliance with its specified requirements is called System Testing AKA End to End testing.
+
+What is Smoke Testing?
+
+Smoke Testing is done to make sure if the build we received from the development team is testable or not. It is also called as “Day 0” check. It is done at the “build level”. It helps not to waste the testing time to simply testing the whole application when the key features don’t work or the key bugs have not been fixed yet.
+
+39. What is Sanity Testing?
+
+Sanity Testing is done during the release phase to check for the main functionalities of the application without going deeper. It is also called as a subset of Regression testing. It is done at the “release level”. At times due to release time constraints rigorous regression testing can’t be done to the build, sanity testing does that part by checking main functionalities.
+
+Difference between severity and priority?
+
+What is Boundary Value Analysis?
+What is Equivalence Class Partition?
+
+
+
+
+
+
+
+
+
+
